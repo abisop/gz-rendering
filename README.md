@@ -16,3 +16,7 @@ This is a fork of orignal gz-rendering repository dedicated to integration of 3d
 - [ ] Basic rendering of splats
 - [ ] Adding basic modification functionalities - resize
 
+
+## Getting Familiar with the work - 
+- 3d reconstruction for simulation -  https://www.nvidia.com/en-us/on-demand/session/gtc26-dlit81757/
+- 
